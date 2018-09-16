@@ -1,6 +1,8 @@
 {
     "name": "invforever/test",
     "description": "Test",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "InvForever Dev",
@@ -8,5 +10,6 @@
         }
     ],
     "require": {
+        "php": "^7.1"
     }
 }
