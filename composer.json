@@ -3,7 +3,7 @@
     "description": "Test",
     "type": "library",
     "license": "MIT",
-	"minimum-stability": "dev",
+	"version": "1.0",
     "authors": [
         {
             "name": "InvForever Dev",
