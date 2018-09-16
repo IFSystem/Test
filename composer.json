@@ -1,7 +1,7 @@
 {
     "name": "invforever/test",
     "description": "Test",
-    "license": "GNU",
+    "license": "MTI",
     "authors": [
         {
             "name": "InvForever Dev",
@@ -9,5 +9,6 @@
         }
     ],
     "require": {
+
     }
 }
