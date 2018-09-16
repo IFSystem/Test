@@ -1,15 +1,6 @@
 {
-    "name": "invforever/test",
-    "description": "Test",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "InvForever Dev",
-            "email": "mralecses@yandex.ru"
-        }
-    ],
     "require": {
-        "php": "^7.1"
+        "monolog/monolog" : "*",
+        "invforever/test" : "@dev"
     }
 }
