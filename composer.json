@@ -3,7 +3,6 @@
     "description": "Test",
     "type": "library",
     "license": "MIT",
-	"version": "1.0",
     "authors": [
         {
             "name": "InvForever Dev",
@@ -15,5 +14,10 @@
     },
     "autoload": {
         "psr-4": {"Test\\": "src/Test"}
+    },
+	"extra": {
+        "branch-alias": {
+            "master": "1.0"
+        }
     }
 }
