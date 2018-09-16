@@ -2,6 +2,7 @@
     "name": "invforever/test",
     "description": "Test",
     "license": "proprietary",
+	"type": "library",
     "authors": [
         {
             "name": "InvForever Dev",
@@ -9,6 +10,6 @@
         }
     ],
     "require": {
-
+	"php": "^7"
     }
 }
