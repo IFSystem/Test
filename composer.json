@@ -1,0 +1,13 @@
+{
+    "name": "invforever/test",
+    "description": "Test",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "InvForever Dev",
+            "email": "mralecses@yandex.ru"
+        }
+    ],
+    "require": {
+    }
+}
